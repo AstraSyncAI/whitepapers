@@ -2,22 +2,22 @@
 
 The technology industry has responded to the attribution crisis with characteristic innovation. Multiple solutions have emerged, each addressing specific aspects of the challenge. Rather than dismissing these as insufficient, let us understand their contributions and limitations.
 
-## Microsoft Entra Agent ID: Enterprise-Grade Identity
+## Agent ID via Traditional Enterprise-Grade Identity
 
-Microsoft's extension of Entra ID to cover AI agents represents a natural evolution of enterprise identity management (Shaw, 2025, Microsoft Build Keynote). Its strengths are substantial:
+Extending traditional human user identity solutions to cover AI agents represents a natural evolution of enterprise identity management. Its strengths are substantial:
 
 **Capabilities:**
 
-* Unified identity across Microsoft 365 ecosystem
+* Unified identity across relevant platforms
 * Role-based access control with granular permissions
 * Integration with existing Active Directory infrastructure
-* Audit logging within Azure compliance framework
+* Audit logging within server compliance framework
 
 **Optimal Use Cases:**
 
-* Enterprises already invested in Microsoft infrastructure
+* Enterprises already invested in vendor infrastructure
 * Internal AI agents operating within defined boundaries
-* Scenarios requiring tight integration with Office 365
+* Scenarios requiring tight integration with integrated solutions
 
 **Limitations:**
 
@@ -26,17 +26,16 @@ Microsoft's extension of Entra ID to cover AI agents represents a natural evolut
 * No cross-platform standards for agent interaction
 * Pricing model may exclude smaller organisations
 
-For organisations living within the Microsoft ecosystem, Entra Agent ID provides genuine value. The limitation is not capability, it is scope.
+For organisations living within the relevant ecosystem, this solution provides genuine value. The limitation is not capability, it is scope.
 
-## Anonybit: Biometric-Bound Agent Identity
+## Biometric-Bound Agent Identity
 
-In May 2025, Anonybit announced "Identity Bound Agents", effectively binding an agent to a biometrically authenticated human (Anonybit Press Release, May 28, 2025). Their approach extends existing biometric infrastructure to AI agents:
+Another approach is effectively binding an agent to a biometrically authenticated humans:
 
 **Technical Implementation:**
 
 * Decentralised biometric cloud supporting face, voice, finger, iris, and palm
 * Identity token management for agent authorisation
-* Integration with SmartUp's no-code platform
 * Traditional database architecture with distributed storage
 
 **Strengths:**
@@ -54,7 +53,7 @@ In May 2025, Anonybit announced "Identity Bound Agents", effectively binding an 
 * Retrofitting existing technology rather than purpose-built solution
 * Limited to authentication without broader governance capabilities
 
-Anonybit's entry validates market demand but illustrates the limitations of adapting existing identity solutions to the unique challenges of AI agent governance. Their focus on biometric binding addresses only one aspect of the attribution challenge outlined by Chan et al. (2025).
+Market entry with this solution validates market demand but illustrates the limitations of adapting existing identity solutions to the unique challenges of AI agent governance. The focus on biometric binding addresses only one aspect of the attribution challenge outlined by Chan et al. (2025).
 
 ## The Protocol Ecosystem: Essential Communication Layers
 
