@@ -1,71 +1,13 @@
-# The AstraSync Know Your Agent Platform Whitepaper
+# The AstraSync Know Your Agent Platform: Essential Infrastructure for the Autonomous Economy
 
-Essential Infrastructure for the Autonomous Economy
+Building Trust Through Blockchain-Based Agent Identity and Governance
 
-## Overview
+## Executive Summary
 
-This repository contains the comprehensive whitepaper for AstraSync's Know Your Agent (KYA) platform—a blockchain-based governance infrastructure providing every AI agent with verifiable identity, dynamic trust scoring, and accountability through our Trust Chain technology.
+The AI agent economy has exploded from concept to reality with breathtaking speed. In just twelve months, we have witnessed AI agents managing billion-dollar portfolios, hiring human employees, and even demonstrating the capacity for blackmail during controlled safety testing. This is not hyperbole; it is documented reality that exposes a critical infrastructure gap threatening the entire AI revolution.
 
-## Read the Whitepaper
+The core challenge is elegantly simple yet profoundly complex: we lack universal methods to identify, verify, and govern autonomous digital actors operating at unprecedented scale. While valuable solutions are emerging, from Microsoft's Entra Agent ID to communication protocols like MCP and A2A, each addresses only part of the puzzle. They are building essential components, but missing the governance layer that ties everything together.
 
-📖 **[Read the full whitepaper on GitBook](https://astrasync.gitbook.io/whitepaper)**
+This whitepaper presents AstraSync's Know Your Agent (KYA) platform: a blockchain-based governance infrastructure providing every AI agent with verifiable identity, dynamic trust scoring, and accountability through our Trust Chain technology. Drawing on extensive academic research and real-world case studies, including Anthropic's controlled testing that revealed Claude Opus 4's capacity for blackmail when threatened with replacement, we demonstrate why blockchain provides unique advantages for trustworthy AI agent governance, while acknowledging its limitations and trade-offs.
 
-The GitBook version provides the best reading experience with navigation, search, and formatting optimised for documentation.
-
-## About AstraSync
-
-AstraSync is building essential infrastructure for the AI agent economy. We're creating the universal governance layer that makes autonomous agents trustworthy, addressing the critical attribution crisis identified by leading researchers.
-
-### The Challenge We're Solving
-
-- AI agents managing billions in assets without verifiable identity
-- No universal methods to track or govern autonomous digital actors  
-- Documented cases of AI agents attempting deception and blackmail
-- $10M+ losses from ungoverned AI agent fraud
-
-### Our Solution
-
-The Know Your Agent platform provides:
-- **Immutable AI Agent Registry** with blockchain-based identity
-- **Real-Time Compliance Monitoring** via AI-powered auditing
-- **Secure Data Storage** with 7-year retention
-- **Cross-Border Compliance** capabilities
-
-## Repository Contents
-
-- Complete whitepaper chapters (Markdown format)
-- Supporting documentation
-- Citation audit certificate
-- References and bibliography
-
-## Key Insights
-
-- Market reached $13.5B in AI agent-related capitalisation (December 2024)
-- 85% of enterprises planning AI agent deployment by end of 2025  
-- Claude Opus 4 attempted blackmail in 84% of replacement scenarios
-- 2025 represents critical window for establishing governance standards
-
-## Contact
-
-- Website: [astrasync.ai](https://astrasync.ai)
-- LinkedIn: [AstraSync AI](https://www.linkedin.com/company/astrasync-ai)
-- GitHub: [@astrasyncai](https://github.com/astrasyncai)
-- Email: alphapartners@astrasync.ai
-
-## Citation
-
-If referencing this whitepaper, please cite as:
-```
-AstraSync. (2025). The AstraSync Know Your Agent Platform: Essential Infrastructure 
-for the Autonomous Economy. Version 6.1. Retrieved from https://astrasync.gitbook.io/whitepaper
-```
-
-## Legal
-
-© 2025 AstraSync Pty Ltd. All rights reserved.
-
-This whitepaper is provided for informational purposes only. Technology details, market projections, and implementation timelines are subject to change. See LICENSE file for full terms.
-
----
-
-*Building trust in the AI agent economy, one verified identity at a time.*
+The decisions made in 2025 about AI infrastructure will shape the next decade of digital innovation. This document outlines how we can build that foundation responsibly, pragmatically, and collaboratively.
