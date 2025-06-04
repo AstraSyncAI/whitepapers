@@ -81,15 +81,12 @@ Our architecture implements a three-tier system:
 
 1. **API Gateway Layer**: RESTful APIs with comprehensive webhook support
    * Standard OAuth 2.0 authentication
-   * Rate limiting: 10,000 requests/minute for enterprise tier
-   * Average latency: 50ms for cached operations
+   * Architected for high performance an low latency
 2. **Governance Middleware**: Event-driven processing engine
-   * Apache Kafka for event streaming
-   * Redis cluster for high-speed caching
-   * PostgreSQL for audit trail persistence
+   * Data handling and storage aligned to best practice modern data stack principles
 3. **Blockchain Interface**: Selective immutability engine
    * Smart contract calls for critical operations only
-   * Batch processing for efficiency (1,000 operations per block)
+   * Batch processing for efficiency
    * Merkle tree anchoring for off-chain data integrity
 
 **Integration Complexity Reality**:
