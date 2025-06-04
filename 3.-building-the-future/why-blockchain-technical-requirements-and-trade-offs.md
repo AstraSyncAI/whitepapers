@@ -40,7 +40,7 @@ Consider governing an AI agent that has demonstrated blackmail capabilities usin
 * Privacy regulation conflicts
 * No universal verification mechanism
 
-An AI agent with blackmail capabilities could theoretically compromise any traditional database system, regardless of how the data is distributed.
+An AI agent with audit trail access and edit capabilities (whether granted accidentally, intentionally or maliciously) could theoretically compromise any traditional database system, regardless of how the data is distributed.
 
 ## Blockchain Trade-offs We Accept
 

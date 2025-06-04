@@ -54,14 +54,7 @@ _Phase 3: Enterprise Transformation (3-6 months)_
 * Disaster recovery and business continuity
 * Regulatory reporting customization
 
-**Our Commitment**: While integration isn't "simple," our enterprise success team provides:
-
-* Dedicated solution architects
-* Reference architectures for common platforms
-* Runbooks for standard integrations
-* 24/7 support during deployment phases
-
-Enterprise deployments are complex. We don't pretend otherwise. We do commit to being the simplest path to comprehensive AI agent governance.
+Enterprise deployments are complex. We don't pretend otherwise. We do commit to partnering to simplify the path to comprehensive AI agent governance.
 
 ## Platform-Specific Optimizations
 
@@ -84,29 +77,7 @@ Our integration framework supports multiple deployment patterns, from lightweigh
 
 ## Cross-Platform Interoperability
 
-The true power of our integration framework emerges when agents from different platforms need to interact:
-
-```javascript
-// Example SDK Integration
-import { TrustChain } from '@astrasync/sdk';
-
-const agent = new TrustChain({
-    apiKey: process.env.ASTRASYNC_API_KEY,
-    mode: 'production'
-});
-
-// Verify agent before interaction
-const verification = await agent.verify({
-    agentId: 'ASTRAS-X92A7BC',
-    action: 'transfer_funds',
-    amount: 1000
-});
-
-if (verification.approved) {
-    // Proceed with governed action
-    await executeTransfer(verification.sessionId);
-}
-```
+The true power of our integration framework emerges when agents from different platforms need to interact. We're building all the connectors that you would expect to see, including API, SDK and MCP.
 
 This simple interface masks sophisticated cross-platform verification that enables:
 
